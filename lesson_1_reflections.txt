@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	The additions and deletions of the original texts will be shown by checking out the diff command.
+
